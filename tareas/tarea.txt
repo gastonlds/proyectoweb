@@ -1,0 +1,5 @@
+1. crear un documento html
+2. utilizar etiqueta de titulo para colocar sus nombres
+3. crear una lista desordenada o lista ordenada.
+4. dos parrafos: comentar algo de hobby.
+print de pantalla y lo pasan al chat
